@@ -2,11 +2,11 @@
 
 ## YOLOv3 Dataset Sample
 
-<img src="https://github.com/roozbehrajabi/ALPR_Dataset/blob/main/readme.md.resources/YOLOv3.png?raw=true" width="250%">
+<img src="https://github.com/roozbehrajabi/ALPR_Dataset/blob/main/readme.md.resources/YOLOv3.png?raw=true" width="100%">
 
 ## Faster R-CNN Dataset Sample
 
-<img src="https://github.com/roozbehrajabi/ALPR_Dataset/blob/main/readme.md.resources/FasterRCNN.png?raw=true" width="25%">
+<img src="https://github.com/roozbehrajabi/ALPR_Dataset/blob/main/readme.md.resources/FasterRCNN.png?raw=true" width="100%">
 
 ## Citation
 
