@@ -1,10 +1,12 @@
 # ALPR_Dataset
 
-YOLOv3 Dataset
-<img src="https://github.com/roozbehrajabi/ALPR_Dataset/tree/main/readme.md.resources/YOLOv3.png?raw=true" width="40%"><img src="" width="40%">
+## YOLOv3 Dataset Sample
 
-Faster R-CNN Dataset
-<img src="https://github.com/roozbehrajabi/ALPR_Dataset/tree/main/readme.md.resources/FasterRCNN.png?raw=true" width="40%"><img src="" width="40%">
+<img src="https://github.com/roozbehrajabi/ALPR_Dataset/blob/main/readme.md.resources/YOLOv3.png?raw=true" width="250%">
+
+## Faster R-CNN Dataset Sample
+
+<img src="https://github.com/roozbehrajabi/ALPR_Dataset/blob/main/readme.md.resources/FasterRCNN.png?raw=true" width="25%">
 
 ## Citation
 
